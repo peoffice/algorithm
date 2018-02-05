@@ -57,8 +57,10 @@
 #### 注释
 1. 注释风格：使用 // 或 /* */, 统一就好.
 2. 文件注释
-   > ![image](http://note.youdao.com/favicon.ico)
+   > ![file](ttps://github.com/peoffice/algorithm/blob/master/header.png)
 3. 函数注释
+   > ![function](https://github.com/peoffice/algorithm/blob/master/function.png)
 4. 类型注释
+   > ![type](https://github.com/peoffice/algorithm/blob/master/type.png)
 5. 实现注释
 6. 弃用注释
