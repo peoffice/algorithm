@@ -57,7 +57,7 @@
 #### 注释
 1. 注释风格：使用 // 或 /* */, 统一就好.
 2. 文件注释
-   > ![file](ttps://github.com/peoffice/algorithm/blob/master/header.png)
+   > ![header](https://github.com/peoffice/algorithm/blob/master/header.png)
 3. 函数注释
    > ![function](https://github.com/peoffice/algorithm/blob/master/function.png)
 4. 类型注释
